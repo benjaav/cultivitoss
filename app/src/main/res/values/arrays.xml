@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="cultivos_array">
+        <item>Tomates</item>
+        <item>Cebollas</item>
+        <item>Lechugas</item>
+        <item>Apio</item>
+        <item>Choclo</item>
+    </string-array>
+</resources>
